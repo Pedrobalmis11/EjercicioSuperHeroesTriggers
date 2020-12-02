@@ -14,7 +14,7 @@
     <Window.Resources>
         <local:Superheroe x:Key="superheroe"
                           Heroe="True"></local:Superheroe>
-
+   
         <Style TargetType="Button">
             <Style.Triggers>
                 <Trigger Property="IsMouseOver"
